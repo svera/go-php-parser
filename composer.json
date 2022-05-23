@@ -1,0 +1,13 @@
+{
+    "name": "svera/go-php-parser",
+    "type": "project",
+    "require": {
+        "nikic/php-parser": "^4.13"
+    },
+    "authors": [
+        {
+            "name": "Sergio Vera",
+            "email": "svera@adobe.com"
+        }
+    ]
+}
